@@ -238,6 +238,9 @@ Last run (RTX 3070, Windows 11 build 26200): all nine pass.
 8. **Phase 8:** folder and app bubbles in the margin. *(built)*
 9. **Phase 9 (this):** sockets, taskbar-style app bubbles and their previews. *(built)*
 
-## License
+## License and changes
 
-MIT; see [LICENSE](LICENSE).
+Public domain, under [the Unlicense](LICENSE): anyone may copy, change, rewrite, share or sell any of this code,
+for any purpose, with no conditions and no need to credit anyone.
+
+To change it, fork the repo and edit your copy freely. To send a change back here, open a pull request.

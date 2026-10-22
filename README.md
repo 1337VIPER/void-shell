@@ -237,3 +237,7 @@ Last run (RTX 3070, Windows 11 build 26200): all nine pass.
 7. **Phase 7:** system orbs, and the One window zone layout. *(built)*
 8. **Phase 8:** folder and app bubbles in the margin. *(built)*
 9. **Phase 9 (this):** sockets, taskbar-style app bubbles and their previews. *(built)*
+
+## License
+
+MIT; see [LICENSE](LICENSE).

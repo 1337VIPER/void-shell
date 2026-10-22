@@ -1,0 +1,12 @@
+# Build output: objects, generated shader headers, the exe and its old copies
+build/
+*.obj
+*.exe
+*.pdb
+
+# Self-test output: some renders and reports show this PC's own apps and settings
+test-output/
+
+# Each PC's own settings and log
+*.ini
+*.log
